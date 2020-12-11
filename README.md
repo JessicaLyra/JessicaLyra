@@ -1,16 +1,14 @@
-### Hi there 👋
+# Olá! Me chamo Jessica Lyra 
 
-<!--
-**JessicaLyra/JessicaLyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Conhecimento como Desenvolvedora Web onde busco me aperfeiçoar e mostrar que posso e vou fazer a diferença dentro de uma equipe. Quem tem foco tem tudo!<!--
 
-Here are some ideas to get you started:
+###O que eu sei/entendo:
+*HTML  :white_check_mark:
+*CSS  :white_check_mark:
+*Bootstrap  :white_check_mark:
+*Jquery  :white_check_mark:
+*javascript  :white_check_mark:
+*Versionamento Git  :white_check_mark:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
