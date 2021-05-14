@@ -8,6 +8,7 @@
 * Bootstrap  :white_check_mark:
 * Jquery  :white_check_mark:
 * javascript  :white_check_mark:
+* PHP  :white_check_mark:
 * Versionamento Git  :white_check_mark:
 
 #### Instagram: https://www.instagram.com/developer.woman/
