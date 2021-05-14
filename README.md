@@ -1,6 +1,6 @@
 # Olá! Me chamo Jessica Lyra  :wave:
 
-### Meu foco é Desenvolvimento Web! Sempre em busca de oportunidades, aperfeiçoando meus conhecimentos. Um dia de cada vez e nunca parando!  :raised_hands:  :blush:
+### Meu foco é Desenvolvimento Web! Sempre em busca de oportunidades, aperfeiçoando meus conhecimentos. :raised_hands:  :blush:
 
 ### O que eu sei/entendo:
 * HTML  :white_check_mark:
