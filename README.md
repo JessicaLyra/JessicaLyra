@@ -2,7 +2,7 @@
 
 ### Meu foco é Desenvolvimento Web! Sempre em busca de oportunidades, aperfeiçoando meus conhecimentos. :raised_hands:  :blush:
 
-### O que eu sei/entendo:
+### Skills:
 * HTML  :white_check_mark:
 * CSS  :white_check_mark:
 * Bootstrap  :white_check_mark:
@@ -10,6 +10,9 @@
 * javascript  :white_check_mark:
 * PHP  :white_check_mark:
 * Versionamento Git  :white_check_mark:
+* Construtores :white_check_mark:
+* Hospedagem :white_check_mark:
+
 
 #### Instagram: https://www.instagram.com/developer.woman/
 #### Linkedin: https://www.linkedin.com/in/jessica-lyra-9463a0163/
