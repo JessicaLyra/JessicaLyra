@@ -1,7 +1,5 @@
 # Olá! Me chamo Jessica Lyra  :wave:
 
-### Meu foco é Desenvolvimento Web! Sempre em busca de oportunidades, aperfeiçoando meus conhecimentos. :raised_hands:  :blush:
-
 ### Skills:
 * HTML  :white_check_mark:
 * CSS  :white_check_mark:
