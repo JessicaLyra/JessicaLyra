@@ -15,7 +15,7 @@
  <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
  <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
  <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
- <img src="https://i.picasion.com/pic91/25094dd5bd53dee7b67b36bffa4c89e4.gif" width="180" height="180" border="0" alt="https://picasion.com/" align="right"/>
+ <img src="https://i.picasion.com/pic91/25094dd5bd53dee7b67b36bffa4c89e4.gif" width="100" height="100" border="0" alt="https://picasion.com/" align="right"/>
  
    </div>  
 
