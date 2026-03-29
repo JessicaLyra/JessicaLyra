@@ -50,23 +50,9 @@ Sou desenvolvedora web focada em criar **sites modernos, rápidos e que geram re
 - Integrações com APIs e serviços externos
 - Otimização de performance e SEO técnico
 - Manutenção e evolução de projetos existentes
+  
 ---
 
-## 🔥 Projetos
-
-### 🖥️ Landing Page Moderna
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Seu+Projeto+Aqui" />
-</p>
-
-### 🌐 Site Institucional
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Seu+Projeto+Aqui" />
-</p>
-
-👉 (Aqui você pode colocar prints reais dos seus projetos)
-
----
 
 ## ⭐ Diferenciais
 
