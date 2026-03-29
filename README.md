@@ -1,37 +1,95 @@
-# Olá! Me chamo Jessica Lyra  :wave:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=220&section=header&text=Jessica%20Lyra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-<div align="center">
-  <a href="https://github.com/JessicaLyra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaLyra&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaLyra&layout=compact&langs_count=7&theme=radical"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=24&center=true&vCenter=true&width=700&lines=Desenvolvedora+Web;Especialista+em+WordPress;Landing+Pages+que+convertem;Front-end+com+React;Transformo+ideias+em+sites+profissionais" />
+</p>
 
-  ##
- 
-<div style="display:inline-block;"><br>
+---
 
-<img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+## 👩‍💻 Sobre mim
 
-<img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="center" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+Sou desenvolvedora web focada em criar **sites modernos, rápidos e que geram resultado**.
 
-<img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="center" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+💡 Especialista em:
+- Landing Pages de alta conversão
+- Sites profissionais completos
+- WordPress avançado (ACF, customizações, performance)
+- Integrações (API, automações, formulários, CRM)
 
-<img align="center" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+🚀 Meu foco não é só design — é **fazer seu site vender**.
 
-<img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+---
 
-<img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+## 🧠 Tecnologias
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,php,wordpress,git,github" />
+</p>
+
+---
+
+## 💼 Serviços
+
+💻 **Landing Pages**
+- Design moderno
+- Foco em conversão
+- Integração com WhatsApp
+
+🌐 **Sites Profissionais**
+- Institucionais completos
+- Responsivos
+- Otimizados para SEO
+
+⚙️ **Escopo de atuação**
+
+- Desenvolvimento de interfaces modernas (HTML, CSS, JavaScript, React)
+- Implementação fiel de layouts (Figma → código)
+- WordPress avançado (ACF, Ccrreções e melhorias, criação e personalização, temas customizados, plugins)
+- Integrações com APIs e serviços externos
+- Otimização de performance e SEO técnico
+- Manutenção e evolução de projetos existentes
+---
+
+## 🔥 Projetos
+
+### 🖥️ Landing Page Moderna
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Seu+Projeto+Aqui" />
+</p>
+
+### 🌐 Site Institucional
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Seu+Projeto+Aqui" />
+</p>
+
+👉 (Aqui você pode colocar prints reais dos seus projetos)
+
+---
+
+## ⭐ Diferenciais
+
+✔️ Design profissional  
+✔️ Código limpo e organizado  
+✔️ Entrega rápida  
+✔️ Suporte ao cliente  
+✔️ Foco em resultado  
+
+---
+
+## 📡 Contato profissional
+
+<p align="center">
+  <a href="mailto:jessica.lyra@outlook.com">
+    <img src="https://img.shields.io/badge/Email-contato-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/jessica-lyra-9463a0163/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 
- ![Snake animation](https://github.com/JessicaLyra/JessicaLyra/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  Disponível para freelas técnicos e colaboração em projetos
+</p>
