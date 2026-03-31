@@ -18,8 +18,6 @@ Sou desenvolvedora web focada em criar **sites modernos, rápidos e que geram re
 - WordPress avançado (ACF, customizações, performance)
 - Integrações (API, automações, formulários, CRM)
 
-🚀 Meu foco não é só design — é **fazer seu site vender**.
-
 ---
 
 ## 🧠 Tecnologias
